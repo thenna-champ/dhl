@@ -1,0 +1,4 @@
+name: DHL API
+description: DHL API Module.
+type: module
+core_version_requirement: ^8 || ^9 || ^10

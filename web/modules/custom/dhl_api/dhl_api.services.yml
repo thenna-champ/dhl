@@ -1,0 +1,7 @@
+services:
+  dhl_api.apiservice:
+    class: Drupal\dhl_api\services\api_service
+    arguments: ['@http_client']
+
+
+    

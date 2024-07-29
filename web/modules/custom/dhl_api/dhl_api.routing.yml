@@ -1,0 +1,7 @@
+demoform:
+  path: "/dhl_api/form/task"
+  defaults:
+    _form: '\Drupal\dhl_api\Form\TaskFromAlter'
+    _title: "DHL API Form"
+  requirements:
+    _access: "TRUE"
